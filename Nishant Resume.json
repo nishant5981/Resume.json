@@ -1,0 +1,56 @@
+{
+	"basics": {
+		"name": "Nishant Kumar",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/88241462?v=4",
+		"email": "2020KUEC2008@iiitkota.ac.in",
+		"phone": "9358136584",
+		"summary": "I am student of Indian Institute of Information Technology Kota pursuing BTech in Electronics & Communication Engineering.",
+		"location": {
+			"address": "VPO Gusaiana",
+			"postalCode": "125110",
+			"city": "Sirsa",
+			"countryCode": "India",
+			"region": " Haryana"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "nishantkumar310",
+				"url": "https://www.twitter.com/nishantkumar310"
+			},
+			{
+				"network": "Github",
+				"username": "nishant5981",
+				"url": "https://www.github.com/nishant5981/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Nishant Kumar",
+				"url": "https://www.linkedin.com/in/Nishant Kumar/"
+			},
+			{
+				"network": "Instagram",
+				"username": "nishantkumar3101",
+				"url": "https://instagram.com/nishantkumar3101/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"startDate": "2020-02-12 //Date",
+		"gpa": "8.2",
+		"courses": [
+			"Electronics & Communication Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Learner",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Cricket"]
+	}]
+}
